@@ -16,7 +16,7 @@ Tendrá este aspecto
 
 ## API utilizada
 
-Esta aplicación utiliza la API de REST Countries para obtener información sobre los países. La URL de la API es [https://restcountries.com/v3/all](https://restcountries.com/v3/all).
+Esta aplicación utiliza la API de REST Countries para obtener información sobre los países. La URL de la API es [https://restcountries.com/v3/all](https://restcountries.com/v3/all). Si esa URL diera problemas podrias usar [https://restcountries.com/v3.1/all](https://restcountries.com/v3.1/all)
 
 
 ## Notas y pistas
